@@ -3,20 +3,33 @@ A simple and organized Excel tool for tracking monthly expenses and viewing spen
 This project demonstrates practical Excel skills used in personal finance, accounting, and basic business reporting.
 
 📝 Features
+
 Track daily and monthly expenses
+
 Categorize spending using drop-down lists
+
 Automatic calculation of:
+
 Total monthly expenses
+
+
 Category-wise totals
+
 Clean table layout for easy sorting and filtering
+
 Simple summary chart for visual review
 
 🧠 Skills Used
 Excel
+
 SUMIFS
+
 Data Validation (drop-downs)
+
 Structured Tables
+
 Basic Data Visualization
+
 Data Organization
 
 
